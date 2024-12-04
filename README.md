@@ -66,14 +66,17 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: Harisha S RegisterNumber: 24900903
  
+ https://web.whatsapp.com/
 **Logic symbol & Truthtable**
+https://web.whatsapp.com/
 
 **RTL realization Output:** 
-
+https://web.whatsapp.com/
 **RTL**
-
+https://web.whatsapp.com/
 **Result:**
+The truth table of the specified logic gates(AND,OR,NOT,NAND,NOR,XOR,XNOR) was successfully implemented and verify using verilog programming in Quartes II
 
 
